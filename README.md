@@ -15,8 +15,8 @@ For me, technology is not just about coding or tools — it's about creating som
  What I'm Currently Doing
 
 * Learning programming fundamentals step by step
-* 💻 Practising problem-solving through coding platforms
-* 🛠️ Exploring digital tools for academics and productivity
+*  Practising problem-solving through coding platforms
+* Exploring digital tools for academics and productivity
 
 ---
 
